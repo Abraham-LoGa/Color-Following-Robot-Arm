@@ -1,0 +1,22 @@
+[PROJECT]
+Target=C_S.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=C_S.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\devices\;C:\Program Files (x86)\PICC\drivers\
+[C:\Users\Eibraham\Desktop\V_C_SE_Pfinal\Código_CCS\C_S]
+Type=4
+[mru-list]
+1=C_S.c
+[Opened Files]
+1=C_S.c
+2=
+[C_S.c]
+Type=4
+[Units]
+Count=1
+1=C_S (main)
